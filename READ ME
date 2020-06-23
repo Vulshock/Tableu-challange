@@ -1,0 +1,54 @@
+For my Tableau work, I decided to focus on the summer months of 2018 and 2019 as originally I wanted to see if there was any real big changes with between the years.
+
+What are the peak hours in which bikes are used during summer months?
+	
+  From my finding, I can say with confidence that the peak times that bikes were used during the summer months were at 8am and 5-6pm. This is because it coincides with when people are usually going to work. (See Sheet 10: Peak Rider Hours in Summer)
+
+Today, what are the top 10 stations in the city for starting a journey?
+	
+  I decided for this question I would look at both 2018 and 2019 summer months. Both years yielded similar results. The top 10 stations to start a journey are as follows for 2018 (Sheet 1: Top Stations Starting 2018):
+    1.	Grove St PATH
+    2.	Hamilton Park
+    3.	Sip Ave
+    4.	Exchange Place
+    5.	Newport PATH
+    6.	Harborside
+    7.	Marin Light Rail
+    8.	Morris Canal
+    9.	Warner St.
+    10.	Paulus Hook
+
+As for 2019 the top 10 stations were(Sheet 3: Top Stations Starting 2019):
+
+    1.	Grove St PATH
+    2.	Hamilton Park
+    3.	Sip Ave
+    4.	Harborside
+    5.	Newport PATH
+    6.	Marin Light Rail
+    7.	Newport Pkwy
+    8.	Paulus Hook
+    9.	Morris Canal
+    10.	City Hall
+    
+Today, what are the top 10 stations in the city for ending a journey?
+
+	The top 10 stations in the city for ending a journey are as followed (Sheet 6 Top End Stations 2018):
+    1.	Grove St PATH
+    2.	Exchange Place
+    3.	Hamilton Park
+    4.	Newport PATH
+    5.	Sip Ave
+    6.	Harborside
+    7.	Newport Pkwy
+    8.	Marin Light Rail
+    9.	City Hall
+    10.	Warren St.
+    
+Today, what is the gender breakdown of active participants (Male v. Female)
+
+	From my findings the gender split is rather substantial on who actually use the bikes. 71% of the users are men while 21% are women, additional there is a 8% group that have not specified their gender(Sheet 8: Gender Distribution based on number of trips)
+
+How does the average trip duration change by age
+	
+  Baring a few outliers, there is a steady rise between a persons age and the average duration usage of a bike. The younger the person, the longer the average trip duration. There are admittedly a few strange occurrences with average trip donation but this might be due to people miss inputting their age.
